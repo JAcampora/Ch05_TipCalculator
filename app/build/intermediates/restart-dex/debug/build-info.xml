@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="9111174574695"
+    token="4094540418116738686"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="493" />
+    <task
+        name="instant-run-dex"
+        duration="1213" />
+    <task
+        name="instant-run-transform"
+        duration="96" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="C:\Users\Redd\AndroidStudioProjects\Ch05_TipCalculator\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="8730963549779" >
+        <artifact
+            location="C:\Users\Redd\AndroidStudioProjects\Ch05_TipCalculator\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="8890648242357" >
+        <artifact
+            location="C:\Users\Redd\AndroidStudioProjects\Ch05_TipCalculator\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="9077799098331"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="C:\Users\Redd\AndroidStudioProjects\Ch05_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="9111174574695"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Redd\AndroidStudioProjects\Ch05_TipCalculator\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
